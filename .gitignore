@@ -1,0 +1,52 @@
+# Environment / Secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+payout/
+venv/
+.venv/
+
+# Node (Frontend)
+frontend/node_modules/
+frontend/.pnp/
+frontend/.pnp.js
+frontend/coverage/
+
+# Build outputs
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Celery
+celerybeat-schedule*
+celerybeat-schedule-shm
+celerybeat-schedule-wal
+celerybeat.pid
+
+# SQLite (local dev DB)
+*.sqlite3
+db.sqlite3
