@@ -1,4 +1,5 @@
-﻿const BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+
+const BASE_URL = 'https://playto-payout-engine-production-5fd9.up.railway.app';
 
 const apiGet = (path) =>
   fetch(BASE_URL + '/api/v1' + path).then(r => r.json());
