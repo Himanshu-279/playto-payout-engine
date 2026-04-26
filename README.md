@@ -1,7 +1,15 @@
 # Playto Payout Engine
 
-**Submitted by:** Himanshu Verma  
-**GitHub:** https://github.com/Himanshu-279  
+![App Screenshot](ss/Screenshot%202026-04-26%20182630.png)
+
+**Live Deployment**
+- **Frontend:** https://triumphant-playfulness-production-2d6f.up.railway.app
+- **Backend API:** https://playto-payout-engine-production-5fd9.up.railway.app
+
+---
+
+**Submitted by:** Himanshu Verma
+**GitHub:** https://github.com/Himanshu-279
 **Role:** Founding Engineer Challenge — 2026
 
 Cross-border payout infrastructure for Indian merchants. Merchants accumulate balance from international customer payments (USD) and withdraw to their Indian bank accounts (INR).
